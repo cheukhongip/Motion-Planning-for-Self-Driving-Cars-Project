@@ -110,8 +110,7 @@ Self-Driving Cars Specialization on Coursera.
 The repository is intended to demonstrate the project workflow,
 autonomous-driving concepts, and simulation results.
 
-This project was completed as part of the University of Toronto
-Self-Driving Cars Specialization on Coursera.
+
 
 The repository is intended to demonstrate the project workflow,
 autonomous-driving concepts, and simulation results.
