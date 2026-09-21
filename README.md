@@ -102,13 +102,5 @@ This project provided hands-on experience integrating multiple components of an 
 Key areas included behavioral decision-making, trajectory generation, collision avoidance, velocity planning, and the interface between planning and vehicle control.
 
 
-## Course
-
-This project was completed as part of the University of Toronto
-Self-Driving Cars Specialization on Coursera.
-
-The repository is intended to demonstrate the project workflow,
-autonomous-driving concepts, and simulation results.
-
 The repository is intended to demonstrate the project workflow,
 autonomous-driving concepts, and simulation results.
