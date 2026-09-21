@@ -110,7 +110,5 @@ Self-Driving Cars Specialization on Coursera.
 The repository is intended to demonstrate the project workflow,
 autonomous-driving concepts, and simulation results.
 
-
-
 The repository is intended to demonstrate the project workflow,
 autonomous-driving concepts, and simulation results.
