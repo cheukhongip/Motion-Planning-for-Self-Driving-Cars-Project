@@ -89,7 +89,10 @@ Planning → Trajectory → Velocity Profile → Vehicle Control
 
 A CARLA simulation video demonstrates the integrated motion-planning pipeline controlling the vehicle through the driving environment.
 
-[▶ Watch the CARLA Motion Planning Demo](./media/CARLA_Motion_Planning_GitHub_Small.mp4)
+
+
+https://github.com/user-attachments/assets/bbcf589f-84bf-4928-9e97-2531e2fe9d8d
+
 
 
 ## What I Learned
