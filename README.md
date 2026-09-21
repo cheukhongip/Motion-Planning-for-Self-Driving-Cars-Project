@@ -103,6 +103,10 @@ Key areas included behavioral decision-making, trajectory generation, collision 
 
 ## Course
 
-University of Toronto
-Self-Driving Cars Specialization
-Motion Planning for Self-Driving Cars
+## Course
+
+This project was completed as part of the University of Toronto
+Self-Driving Cars Specialization on Coursera.
+
+The repository is intended to demonstrate the project workflow,
+autonomous-driving concepts, and simulation results.
